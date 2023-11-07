@@ -1,4 +1,4 @@
-"""STORE MANAGEMENT SYSTEM"""
+"""STORE MANAGEMENT SYSTEM V1"""
 import os
 
 
