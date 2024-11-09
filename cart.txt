@@ -1,0 +1,36 @@
+
+
+Customer: Ajibola
+	{'13': {'name': 'peanut    ', 'price': 300, 'qty': 5}, '16': {'name': 'beef      ', 'price': 500, 'qty': 15}}
+Total: 9000
+
+
+
+Customer: corey schafer
+	{'20': {'name': 'corn      ', 'price': 150, 'qty': 16}, '7': {'name': 'peach     ', 'price': 300, 'qty': 6}}
+Total: 4200
+
+
+
+Customer: Mosh Hamedani
+	{'10': {'name': 'banana   ', 'price': 200, 'qty': 25}}
+Total: 5000
+
+
+
+Customer: JBTHESTR900
+	{'20': {'name': 'corn      ', 'price': 150, 'qty': 1}, '24': {'name': 'strawberry', 'price': 250, 'qty': 2}}
+Total: 650
+
+
+
+Customer: jb
+	{'3': {'name': 'pawpaw    ', 'price': 200, 'qty': 3}}
+Total: 600
+
+
+
+Customer: jb2024
+	{'11': {'name': 'potato    ', 'price': 400, 'qty': 2}}
+Total: 800
+
